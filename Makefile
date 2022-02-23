@@ -3,6 +3,6 @@ bin: zombie.c
 .PHONY: run clean
 
 run:
-	./bin &
+	./bin & ps -l
 clean:
 	rm bin
