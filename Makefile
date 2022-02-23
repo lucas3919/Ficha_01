@@ -6,4 +6,3 @@ run:
 	./bin &
 clean:
 	rm bin
-
